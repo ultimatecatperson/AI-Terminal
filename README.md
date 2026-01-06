@@ -1,5 +1,6 @@
 # AI Terminal
 
+**WARNING**: Running AI models locally uses a lot of RAM! Make sure your computer has enough before continuing, preferably 32+ GB. (It ran just fine on 48 GB RAM) If you have a MacBook Air, Chromebook, or anything lightweight like that, turn away while you can!
 ## Overview
 AI Terminal is an AI Assistant that runs commands in the terminal. You can ask it things like, "Create a directory for python and go into it.", and it should run commands like mkdir and cd to get the job done.
 
